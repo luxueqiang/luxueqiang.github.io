@@ -25,6 +25,7 @@ Throughout my Ph.D. program, I have published a total of 6 journal papers, with 
 
 
 # 🔥 News
+
 - ***Nov. 11, 2022:*** 🧨🧨 My research progress on "landslide dam breaches", published in the 'Journal of Geophysical Research: Earth Surface', has been honored with the Weekly Highlight by the American Geophysical Union (AGU). (<a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>original website</a>)
 -  ***Jul.11, 2022:*** 🧨🧨 My research findings on "wave overtopping", initially published in 'Engineering Geology', have garnered the honor of an invitation from 'The Alliance of National and International Science Organizations for the Belt and Road Regions (ANSO)'. They requested a bilingual presentation of these results to be featured on their official website. (<a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>original website</a>)
 
@@ -76,6 +77,7 @@ Zhou, M., Zhou, G. G. D., Cui, K. F. E., Song, D., and **Xueqiang LU.** (2019). 
 
 
 # 👨🏻‍🏫 Conference Papers
+
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
 Cui, K. F., Zhou, G. G. D., Jing, L., Xie, Y., and **Xueqiang LU.** (2023). Particle size segregation and diffusion in saturated granular flows: Implications for grain sorting in debris flows. In E3S Web of Conferences (Vol. 415, p. 01003). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) 📊 **Citations: 0**
 
@@ -84,12 +86,14 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **Xueqiang LU.,** and Xie, Y. (20
 
 
 # 🏆 Honors and Awards
+
 - ***In Sep. 2015***, I had the honor of receiving the National Inspiration Scholarship, valued at 5,000 RMB.
 - ***In Jun. 2017***, I was honored to receive the "National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering" from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide.
 - ***In Dec. 2023***, I had the distinct honor of being awarded the "ZHU LI YUE HUA Outstanding Doctoral Scholarship" by the University of Chinese Academy of Sciences (UCAS),  valued at 5,000 RMB.
 
 
 # 👨🏻‍🎓 Educations
+
 - ***2013.09 - 2017.06***, Southwest Petroleum University (SWPU), majoring in urban underground space engineering, Bachelor's degree.
 - ***2018.09 - 2020.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Master's degree, transferred to Ph.D, Supervisor: Professor Gordon G.D. ZHOU.
 - ***2020.09 - 2024.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Doctor's degree, Supervisor: Professor Gordon G.D. ZHOU.
@@ -100,6 +104,7 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **Xueqiang LU.,** and Xie, Y. (20
 
 
 # 💻 Academic visits
-- ***2023.06 - 2023.07***, Helmholtz-Centre Potsdam, GFZ German Research Centre for Geosciences, Germany, invited visitting. [[photo]](https://drive.google.com/file/d/1pOPXEZa1i6nu5qap0QV_43L4eJJfWhvj/view?usp=sharing)
+
+- ***2023.06 - 2023.07***, Helmholtz-Centre Potsdam, German Research Centre for Geosciences (GFZ), Germany, invited visitting. [[photo]](https://drive.google.com/file/d/1pOPXEZa1i6nu5qap0QV_43L4eJJfWhvj/view?usp=sharing)
 - ***2023.06 - 2023.07***, Polytechnic University of Turin, Italy, academic conference (DFHM8). [[photo]](https://drive.google.com/file/d/1we9lDuNWtUecMEtU6KHN3PnC0aU3_yyl/view?usp=sharing)
 - ***2023.06 - 2023.07***, Illgraben, Switzerland, field trip. [[photo]](https://drive.google.com/file/d/1ETNpYJ2uZH3z9kPiiadaM6VNMt8PJK81/view?usp=sharing)
