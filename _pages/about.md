@@ -36,9 +36,12 @@ Throughout my Ph.D. program, I have published a total of 6 journal papers, with 
 
 [Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) **Citations: 4**
 
+
+
 Gordon G.D. ZHOU, **Xueqiang LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
-**Highlights** 
+[**Highlights**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong>
+
 - Erosion along dam surfaces varies non-uniformly in both vertical and lateral directions;
 - The non-uniform breach morphology evolution promotes a positive feedback between the breach flow velocity and dam surface gradients;
 - The gradual saturation of the breach flow with sediment influences the non-uniform breach morphology evolution of breaching landslide dams.
