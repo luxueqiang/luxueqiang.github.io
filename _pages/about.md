@@ -34,14 +34,11 @@ Throughout my Ph.D. program, I have published a total of 6 journal papers, with 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) **Citations: 4**
-
-
+[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) **Citations: 4** <span class='show_paper_citations' data='Bg80K9YAAAAJ:YsMSGLbcyi4C'></span>
 
 Gordon G.D. ZHOU, **Xueqiang LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
-[**Highlights**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong>
-
+**Highlights**
 - Erosion along dam surfaces varies non-uniformly in both vertical and lateral directions;
 - The non-uniform breach morphology evolution promotes a positive feedback between the breach flow velocity and dam surface gradients;
 - The gradual saturation of the breach flow with sediment influences the non-uniform breach morphology evolution of breaching landslide dams.
@@ -89,7 +86,7 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **Xueqiang LU.,** and Xie, Y. (20
 # 🏆 Honors and Awards
 - ***In Sep. 2015***, I had the honor of receiving the National Inspiration Scholarship, valued at 5,000 RMB.
 - ***In Jun. 2017***, I was honored to receive the "National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering" from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide.
-- ***In Dec. 2023***, I had the distinct honor of being awarded the "ZHU LI YUE HUA Outstanding Doctoral Scholarship" by the University of Chinese Academy of Sciences (UCAS).
+- ***In Dec. 2023***, I had the distinct honor of being awarded the "ZHU LI YUE HUA Outstanding Doctoral Scholarship" by the University of Chinese Academy of Sciences (UCAS),  valued at 5,000 RMB.
 
 
 # 👨🏻‍🎓 Educations
