@@ -32,7 +32,7 @@ Throughout my Ph.D. program, I have published a total of 6 journal papers, with 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) 📊 **Citations: 4**
@@ -46,7 +46,7 @@ Gordon G.D. ZHOU, **Xueqiang LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">Engineering Geology, 2022</div><img src='images/EG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">Engineering Geology, 2022</div><img src='images/EG_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) 📊 **Citations: 3**
