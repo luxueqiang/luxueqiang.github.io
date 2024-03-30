@@ -41,7 +41,7 @@ Throughout my Ph.D. program, I have published a total of 6 journal papers, with 
 
 Gordon G.D. ZHOU, **Xueqiang LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
-**Highlights**
+**Highlights** <span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span>
 - Erosion along dam surfaces varies non-uniformly in both vertical and lateral directions;
 - The non-uniform breach morphology evolution promotes a positive feedback between the breach flow velocity and dam surface gradients;
 - The gradual saturation of the breach flow with sediment influences the non-uniform breach morphology evolution of breaching landslide dams.
