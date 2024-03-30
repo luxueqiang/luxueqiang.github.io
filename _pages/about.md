@@ -21,7 +21,7 @@ I was born in 1994 in Luzhou, Sichuan Province, China. In 2017, I earned my bach
 
 I am doing research on the mechanisms of breaching in landslide/moraine dams and the resulting outburst floods. I have designed a custom instrumented flume capable of monitoring dynamic (via force plate) and seismic (using geophones) signals during dam breaching and outburst flooding events. My expertise encompasse both experimental research and numerical simulations (utilizing depth-averaged continuum models, OlaFOAM or OpenFOAM).
 
-Throughout my Ph.D. program, I have published a total of 6 journal papers, with 4 of which in TOP journals. I have served as the first author or corresponding author on 2 of these publications. Collectively, these papers have garnered <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'> google scholar citations <strong><span id='total_cit'></span></strong> </a> (<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Throughout my Ph.D. program, I have published a total of 6 journal papers, with 4 of which in TOP journals. I have served as the first author or corresponding author on 2 of these publications. Collectively, these papers have garnered <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'> google scholar citations <strong><span id='total_cit'>90+</span></strong> </a> (<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 👌🏻 If you are interested in further discussions on academic topics related to my research, please don't hesitate to reach out via email at luxueqiang2018@gmail.com or luxueqiang18@mails.ucas.ac.cn.
 
@@ -37,11 +37,11 @@ Throughout my Ph.D. program, I have published a total of 6 journal papers, with 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) 📊 **Citations: 4**
+[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) 👉 [(Google Scholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span> 📊
 
 Gordon G.D. ZHOU, **Xueqiang LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
-**Highlights** <span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span>
+**Highlights**
 - Erosion along dam surfaces varies non-uniformly in both vertical and lateral directions;
 - The non-uniform breach morphology evolution promotes a positive feedback between the breach flow velocity and dam surface gradients;
 - The gradual saturation of the breach flow with sediment influences the non-uniform breach morphology evolution of breaching landslide dams.
