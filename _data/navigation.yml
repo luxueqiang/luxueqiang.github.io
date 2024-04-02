@@ -18,5 +18,15 @@ main:
   - title: "Academic Presentation"
     url: "/#-academic-presentation"
 
+  - title: "Patents"
+    url: "/#-patents"
+
+  - title: "Software Copyright"
+    url: "/#-software-copyright"
+
+  - title: "Projects"
+    url: "/#-projects"
+    
   - title: "Academic visits"
     url: "/#-academic-visits"
+    
