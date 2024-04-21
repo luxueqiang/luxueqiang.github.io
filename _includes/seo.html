@@ -8,7 +8,7 @@
 {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - HomePage</title>
+<title>{{ site.title }} - Homepage</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -65,8 +65,7 @@
 {% endif %}
 
 {% if site.google_site_verification %}
-<meta name="google-site-verification" content="{{ 鲁学强 }}" />
-
+<meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
 {% if site.bing_site_verification %}
 <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
