@@ -9,6 +9,8 @@
 {% endif %}
 
 <title>{{ site.title }} - 鲁学强 - HomePage</title>
+<meta name="description" content="鲁学强的学术网站">
+<meta name="keywords" content="鲁学强, luxueqiang, CAS luxueqiang, CAS PhD">
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -48,6 +50,7 @@
   content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 <meta name="twitter:description" content="{{ seo_description }}">
 <meta name="twitter:url" content="{{ canonical_url }}">
+
 
 {% if seo_author_twitter %}
 <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
