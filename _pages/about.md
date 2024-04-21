@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was born in 1994 in Luzhou, Sichuan Province, China. In 2017, I earned my bachelor's degree from the School of Geoscience and Technology at Southwest Petroleum University (SWPU). Following my graduation, I passed the National Master's Degree Admission Examination in 2018 and was admitted to the University of Chinese Academy of Sciences (UCAS), specifically, Institute of Mountain Hazards and Environment (IMHE), Chinese Academy of Sciences (CAS). After two years, I transitioned from a Master's program directly into Ph.D. under the supervision of Professor Gordon G.D. ZHOU. As of 2024, I am set to graduate in June with a Ph.D. in Geotechnical Engineering.
+My name is XUEQIANG LU (鲁学强), and I was born in 1994 in Luzhou, Sichuan Province, China. In 2017, I earned my bachelor's degree from the School of Geoscience and Technology at Southwest Petroleum University (SWPU). Following my graduation, I passed the National Master's Degree Admission Examination in 2018 and was admitted to the University of Chinese Academy of Sciences (UCAS), specifically, Institute of Mountain Hazards and Environment (IMHE), Chinese Academy of Sciences (CAS). After two years, I transitioned from a Master's program directly into Ph.D. under the supervision of Professor Gordon G.D. ZHOU. As of 2024, I am set to graduate in June with a Ph.D. in Geotechnical Engineering.
 
 I am doing research on the mechanisms of breaching in landslide/moraine dams and the resulting outburst floods. I have designed a custom instrumented flume capable of monitoring dynamic (via force plate) and seismic (using geophones) signals during dam breaching and outburst flooding events. My expertise encompasse both experimental research and numerical simulations (utilizing depth-averaged continuum models, OlaFOAM or OpenFOAM).
 
@@ -89,17 +89,23 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **Xueqiang LU.,** and Xie, Y. (20
 
 # 🏆 Honors and Awards
 
-- ***2015***, National Inspiration Scholarship, CNY 5,000;
-- ***2017***, National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering, from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide;
-- ***2022***, First-class Doctoral Scholarship of Chinese Academy of Sciences, by the University of Chinese Academy of Sciences (UCAS), CNY 14,000;
 - ***2023***, ZHU LI YUE HUA Outstanding Doctoral Scholarship, by the University of Chinese Academy of Sciences (UCAS), CNY 5,000;
+
+- ***2022***, First-class Doctoral Scholarship of Chinese Academy of Sciences, by the University of Chinese Academy of Sciences (UCAS), CNY 14,000;
+
+- ***2017***, National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering, from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide;
+
+- ***2015***, National Inspiration Scholarship, CNY 5,000;
+
 
 
 # 👨🏻‍🎓 Educations
 
-- ***2013.09 - 2017.06***, Southwest Petroleum University (SWPU), majoring in urban underground space engineering, Bachelor's degree.
-- ***2018.09 - 2020.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Master's degree, transferred to Ph.D, Supervisor: Professor Gordon G.D. ZHOU.
-- ***2020.09 - 2024.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Doctor's degree, Supervisor: Professor Gordon G.D. ZHOU.
+- ***2020.09 - 2024.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Doctor's degree, Supervisor: Professor Gordon G.D. ZHOU;
+
+- ***2018.09 - 2020.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Master's degree, transferred to Ph.D, Supervisor: Professor Gordon G.D. ZHOU;
+
+- ***2013.09 - 2017.06***, Southwest Petroleum University (SWPU), majoring in urban underground space engineering, Bachelor's degree;
 
 
 # 👨‍💻 Academic Presentation
