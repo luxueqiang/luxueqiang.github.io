@@ -67,25 +67,25 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 # 📑 Other Publications
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2022</span>
-Zhou, G. G. D., Li, S., **XUEQIANG LU.,** and Tang, H. (2022). Large-scale landslide dam breach experiments: Overtopping and “overtopping and seepage” failures. Engineering Geology, 304, 106680. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2022.106680](https://doi.org/10.1016/j.enggeo.2022.106680) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Tyk-4Ss8FVUC'></span></strong> 📊
+Gordon G.D. ZHOU., Li, S., **XUEQIANG LU.,** and Tang, H. (2022). Large-scale landslide dam breach experiments: Overtopping and “overtopping and seepage” failures. Engineering Geology, 304, 106680. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2022.106680](https://doi.org/10.1016/j.enggeo.2022.106680) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Tyk-4Ss8FVUC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2022</span>
-Xie, Y., Zhou, G. G. D., Cui, K. F. E., and **XUEQIANG LU.** (2022). Numerical investigation of debris flows using a two-phase continuum model incorporating a visco-inertial rheology. Engineering Geology, 308, 106797. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2022.106797](https://doi.org/10.1016/j.enggeo.2022.106797) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Y0pCki6q_DkC'></span></strong> 📊
+Xie, Y., Gordon G.D. ZHOU., Cui, K. F. E., and **XUEQIANG LU.** (2022). Numerical investigation of debris flows using a two-phase continuum model incorporating a visco-inertial rheology. Engineering Geology, 308, 106797. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2022.106797](https://doi.org/10.1016/j.enggeo.2022.106797) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Y0pCki6q_DkC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2021</span>
-Song, D., Chen, X., Zhou, G. G. D., **XUEQIANG LU.,** Cheng, G., and Chen, Q. (2021). Impact dynamics of debris flow against rigid obstacle in laboratory experiments. Engineering Geology, 291, 106211. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2021.106211](https://doi.org/10.1016/j.enggeo.2021.106211) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:YsMSGLbcyi4C'></span></strong> 📊
+Song, D., Chen, X., Gordon G.D. ZHOU., **XUEQIANG LU.,** Cheng, G., and Chen, Q. (2021). Impact dynamics of debris flow against rigid obstacle in laboratory experiments. Engineering Geology, 291, 106211. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2021.106211](https://doi.org/10.1016/j.enggeo.2021.106211) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:YsMSGLbcyi4C'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">J. Mt. Sci. 2019</span>
-Zhou, M., Zhou, G. G. D., Cui, K. F. E., Song, D., and **XUEQIANG LU.** (2019). Influence of inflow discharge and bed erodibility on outburst flood of landslide dam. Journal of Mountain Science, 16(4), 778–792. **[IF5= 2.7]** [https://doi.org/10.1007/s11629-018-5312-8](https://doi.org/10.1007/s11629-018-5312-8) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:zYLM7Y9cAGgC'></span></strong> 📊
+Zhou, M., Gordon G.D. ZHOU., Cui, K. F. E., Song, D., and **XUEQIANG LU.** (2019). Influence of inflow discharge and bed erodibility on outburst flood of landslide dam. Journal of Mountain Science, 16(4), 778–792. **[IF5= 2.7]** [https://doi.org/10.1007/s11629-018-5312-8](https://doi.org/10.1007/s11629-018-5312-8) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:zYLM7Y9cAGgC'></span></strong> 📊
 
 
-# 👨🏻‍🏫 Conference Papers
-
-- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
-Cui, K. F., Zhou, G. G. D., Jing, L., Xie, Y., and **XUEQIANG LU.** (2023). Particle size segregation and diffusion in saturated granular flows: Implications for grain sorting in debris flows. In E3S Web of Conferences (Vol. 415, p. 01003). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:_FxGoFyzp5QC'></span></strong> 📊
+# 👨🏻‍🏫 Conferences
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
-Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **XUEQIANG LU.,** and Xie, Y. (2023). Keynote lecture. Impact dynamics of debris flow against slit dam: Experimental and numerical investigation. In E3S Web of Conferences (Vol. 415, p. 06022). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong> 📊
+Cui, K. F., Gordon G.D. ZHOU., Jing, L., Xie, Y., and **XUEQIANG LU.** (2023). Particle size segregation and diffusion in saturated granular flows: Implications for grain sorting in debris flows. In E3S Web of Conferences (Vol. 415, p. 01003). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:_FxGoFyzp5QC'></span></strong> 📊
+
+- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
+Gordon G.D. ZHOU., Cui, K. F. E., Du, J., Li, N., **XUEQIANG LU.,** and Xie, Y. (2023). Keynote lecture. Impact dynamics of debris flow against slit dam: Experimental and numerical investigation. In E3S Web of Conferences (Vol. 415, p. 06022). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong> 📊
 
 
 <span class='anchor' id='honors-and-awards'></span>
@@ -106,9 +106,9 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **XUEQIANG LU.,** and Xie, Y. (20
 --- *Current Projects* ---
 - National Key Laboratory of Mountain River Conservation and Governance (Sichuan University) Application for Open Collaboration Funding, No. SKHL2308, Numerical simulation of the disaster chain of “landslide - river blockage – dammed lake – outburst flooding” whole process, 2024.01 – 2025.12, CNY 40,000, Ongoing, Participant;
 
---- *Other Projects* ---
+--- *Previous Projects* ---
 
-- Sino-German Science Center of NSFC, Sino-German Cooperative Exchange Project, M-0145, Mountain Hazards under Climate Change, 2021-01 to 2024-12, CNY 741,072, Ongoing, Participant;
+- Sino-German Science Center of NSFC, Sino-German Cooperative Exchange Project, M-0145, Mountain Hazards under Climate Change, 2021-01 to 2024-12, CNY 741,072, finished, Participant;
 
 
 <span class='anchor' id='academic-visits'></span>
