@@ -51,6 +51,7 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">Engineering Geology, 2022</div><img src='images/EG_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 [Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) **[Engineering Geology, IF5= 7.9]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊📊
 
 **XUEQIANG LU**, Gordon G.D. ZHOU*, Kahlil F. E. CUI, Hui TANG, and Yunxu XIE
@@ -89,65 +90,23 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **XUEQIANG LU.,** and Xie, Y. (20
 
 # 🏆 Honors and Awards
 
-- ***2023***, ZHU LI YUE HUA Outstanding Doctoral Scholarship, by the University of Chinese Academy of Sciences (UCAS), CNY 5,000;
-
-- ***2022***, First-class Doctoral Scholarship of Chinese Academy of Sciences, by the University of Chinese Academy of Sciences (UCAS), CNY 14,000;
-
 - ***2017***, National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering, from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide;
-
-- ***2015***, National Inspiration Scholarship, CNY 5,000;
-
-
-
-# 👨🏻‍🎓 Educations
-
-- ***2020.09 - 2024.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Doctor's degree, Supervisor: Professor Gordon G.D. ZHOU;
-
-- ***2018.09 - 2020.06***, University of Chinese Academy of Sciences (UCAS), majoring in geotechnical engineering, Master's degree, transferred to Ph.D, Supervisor: Professor Gordon G.D. ZHOU;
-
-- ***2013.09 - 2017.06***, Southwest Petroleum University (SWPU), majoring in urban underground space engineering, Bachelor's degree;
 
 
 # 👨‍💻 Academic Presentation
 - ***In Sep. 2023***, The XIV Congress of the International Association for Engineering Geology and the Environment, Title: Non-Uniform Breach Evolution of Landslide Dams During Overtopping Failure, Paper No:B235 [[PPT]](https://drive.google.com/file/d/1kru0Sim46l9-f9NR4QjMCkMIOTU3yXg1/view?usp=drive_link)
 
 
-# 🗞 Patents
-
-- **XUEQIANG LU**; Zhou, G. G. D; Song Dongri. Experimental device and method for simulating the whole process of glacier lakes outburst flooding, CN 113405769 B. [chinese patent]
-
-- Xie Yunxu; Zhou, G. G. D; **XUEQIANG LU**. Numerical method for the spatiotemporal evolution of moraine dam breach: China, CN 113373861B. [chinese patent]
-
-- Kahlil Fredrick Ermac Cui; Zhou, G. G. D; **XUEQIANG LU**. A device and method for simulating the shearing test of  ice particles: China, CN 115656478 B. [chinese patent]
-
-
-# 🔐 Software Copyright
-
-- Xie Yunxu; Zhou, G. G. D; **XUEQIANG LU**. The numerical system for the spatiotemporal evolution of dam breach [DamLab] V1.0. [software copyright]
-
-- Xie Yunxu; Zhou, G. G. D; **XUEQIANG LU**. Numerical simulation of debris flow dynamics and numerical system [Df1ow3D] V3.0. [software copyright]
-
-- Xie Yunxu; Kahlil Fredrick Ermac Cui; Zhou, G. G. D; **XUEQIANG LU**; Li Nanjun. Model class gradient global adversarial attack algorithm calculation system V1.0. [software copyright]
-
-
 # 📄 Projects
-
-- Chinese Academy of Sciences, "Belt and Road" International Science Organizations Alliance Joint Research Cooperation Special Project, ANS0-CR-KP-2021-07, Numerical Simulation and Risk Analysis of Landslide Disaster Chain in High Mountain Areas of Asia under Global Climate Change, 2021-12 to 2024-12, CNY 1.2 million, Ongoing, Participant;
 
 - National Key Laboratory of Mountain River Conservation and Governance (Sichuan University) Application for Open Collaboration Funding, No. SKHL2308, Numerical simulation of the disaster chain of “landslide - river blockage – dammed lake – outburst flooding” whole process, 2024.01 – 2025.12, CNY 40,000, Ongoing, Participant;
 
 --- *Other Projects* ---
 
-- National Natural Science Foundation of China, Major Program, No. 41731283, Spatiotemporal Evolution Analysis and Risk Control of the Impact of Entire Lifespan Process of Dammed Lakes on the Whole Basin, 2018.01 - 2022.12, CNY 3 million, Completed (Excellent Assessment), Participant;
-
-- Chinese Academy of Sciences, Key Research Program of Frontier Sciences, QYZDB-SSW-DQC010, Mechanical Properties and Hazard Mechanisms of Glacial Tills on the Qinghai-Tibet Plateau, 2016-09 to 2020-12, CNY 2.5 million, Completed, Participant;
-
 - Sino-German Science Center of NSFC, Sino-German Cooperative Exchange Project, M-0145, Mountain Hazards under Climate Change, 2021-01 to 2024-12, CNY 741,072, Ongoing, Participant;
 
-- Chinese Academy of Sciences, Hong Kong University of Science and Technology, Key Technology Infrastructure Development Project, KFJ-SW-YW001, Large-scale Dynamic Simulation Experimental Platform for Mountain Hazard, 2016-01 to 2024-12, CNY 26 million, Ongoing, Participant;
 
-
-# 🛫 Academic visits
+# 🛫 Academic visittings
 
 - ***2023.06 - 2023.07***, Helmholtz-Centre Potsdam, German Research Centre for Geosciences (GFZ), Germany 🇩🇪, invited visitting. [[photo]](https://drive.google.com/file/d/1pOPXEZa1i6nu5qap0QV_43L4eJJfWhvj/view?usp=sharing)
 - ***2023.06 - 2023.07***, Polytechnic University of Turin, Italy 🇮🇹, academic conference (DFHM8). [[photo]](https://drive.google.com/file/d/1we9lDuNWtUecMEtU6KHN3PnC0aU3_yyl/view?usp=sharing)
