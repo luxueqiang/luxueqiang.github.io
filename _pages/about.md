@@ -31,8 +31,8 @@ Till now, I have published a total of 6 journal papers, with 4 of which in TOP j
 -  ***Jul.11, 2022:*** 🧨🧨 My research findings on "wave overtopping", initially published in 'Engineering Geology', have garnered the honor of an invitation from 'The Alliance of National and International Science Organizations for the Belt and Road Regions (ANSO)'. They requested a bilingual presentation of these results to be featured on their official website. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
 
 
-<span class='anchor' id='publications'></span>
-# 📝 Publications
+<span class='anchor' id='research-highlights'></span>
+# 📝 Research Highlights
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

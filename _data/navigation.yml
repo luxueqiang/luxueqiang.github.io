@@ -6,8 +6,8 @@ main:
   - title: "Recent News"
     url: "/#recent-news"
 
-  - title: "Publications"
-    url: "/#publications"
+  - title: "Research Highlights"
+    url: "/#research-highlights"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
