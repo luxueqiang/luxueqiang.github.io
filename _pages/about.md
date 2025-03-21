@@ -24,7 +24,7 @@ Till now, I have published a total of 6 journal papers, with 4 of which in TOP j
 🌈🌈🌈 If you are interested in further discussions on academic topics related to my research, please don't hesitate to reach out via email at *luxueqiang2018@gmail.com* or *luxueqiang18@mails.ucas.ac.cn*.
 
 
-# 🔥 News
+# 🔥 Recent News
 
 - ***Nov. 11, 2022:*** 🧨🧨 My research progress on "landslide dam breaches", published in the 'Journal of Geophysical Research: Earth Surface', has been honored with the Weekly Highlight by the American Geophysical Union (AGU). 🔗 <a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>[original website]</a>
 -  ***Jul.11, 2022:*** 🧨🧨 My research findings on "wave overtopping", initially published in 'Engineering Geology', have garnered the honor of an invitation from 'The Alliance of National and International Science Organizations for the Belt and Road Regions (ANSO)'. They requested a bilingual presentation of these results to be featured on their official website. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
