@@ -24,12 +24,14 @@ Till now, I have published a total of 6 journal papers, with 4 of which in TOP j
 🌈🌈🌈 If you are interested in further discussions on academic topics related to my research, please don't hesitate to reach out via email at *luxueqiang2018@gmail.com* or *luxueqiang18@mails.ucas.ac.cn*.
 
 
+<span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
 
 - ***Nov. 11, 2022:*** 🧨🧨 My research progress on "landslide dam breaches", published in the 'Journal of Geophysical Research: Earth Surface', has been honored with the Weekly Highlight by the American Geophysical Union (AGU). 🔗 <a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>[original website]</a>
 -  ***Jul.11, 2022:*** 🧨🧨 My research findings on "wave overtopping", initially published in 'Engineering Geology', have garnered the honor of an invitation from 'The Alliance of National and International Science Organizations for the Belt and Road Regions (ANSO)'. They requested a bilingual presentation of these results to be featured on their official website. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
@@ -86,17 +88,22 @@ Cui, K. F., Zhou, G. G. D., Jing, L., Xie, Y., and **XUEQIANG LU.** (2023). Part
 Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **XUEQIANG LU.,** and Xie, Y. (2023). Keynote lecture. Impact dynamics of debris flow against slit dam: Experimental and numerical investigation. In E3S Web of Conferences (Vol. 415, p. 06022). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong> 📊
 
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🏆 Honors and Awards
 
 - ***2017***, National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering, from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide;
 
 
-# 👨‍💻 Academic Presentation
+<span class='anchor' id='academic-presentation'></span>
+# 👨🏻‍🏫 Academic Presentation
+
 - ***In Sep. 2023***, The XIV Congress of the International Association for Engineering Geology and the Environment, Title: Non-Uniform Breach Evolution of Landslide Dams During Overtopping Failure, Paper No:B235 [[PPT]](https://drive.google.com/file/d/1kru0Sim46l9-f9NR4QjMCkMIOTU3yXg1/view?usp=drive_link)
 
 
+<span class='anchor' id='projects'></span>
 # 📄 Projects
 
+--- *Current Projects* ---
 - National Key Laboratory of Mountain River Conservation and Governance (Sichuan University) Application for Open Collaboration Funding, No. SKHL2308, Numerical simulation of the disaster chain of “landslide - river blockage – dammed lake – outburst flooding” whole process, 2024.01 – 2025.12, CNY 40,000, Ongoing, Participant;
 
 --- *Other Projects* ---
@@ -104,7 +111,8 @@ Zhou, G. G. D., Cui, K. F. E., Du, J., Li, N., **XUEQIANG LU.,** and Xie, Y. (20
 - Sino-German Science Center of NSFC, Sino-German Cooperative Exchange Project, M-0145, Mountain Hazards under Climate Change, 2021-01 to 2024-12, CNY 741,072, Ongoing, Participant;
 
 
-# 🛫 Academic visittings
+<span class='anchor' id='academic-visits'></span>
+# 🛫 Academic Visittings
 
 - ***2023.06 - 2023.07***, Helmholtz-Centre Potsdam, German Research Centre for Geosciences (GFZ), Germany 🇩🇪, invited visitting. [[photo]](https://drive.google.com/file/d/1pOPXEZa1i6nu5qap0QV_43L4eJJfWhvj/view?usp=sharing)
 - ***2023.06 - 2023.07***, Polytechnic University of Turin, Italy 🇮🇹, academic conference (DFHM8). [[photo]](https://drive.google.com/file/d/1we9lDuNWtUecMEtU6KHN3PnC0aU3_yyl/view?usp=sharing)

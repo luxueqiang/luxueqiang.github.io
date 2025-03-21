@@ -4,20 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Recent News"
-    url: "/#-news"
+    url: "/#recent-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Academic Presentation"
-    url: "/#-academic-presentation"
+    url: "/#academic-presentation"
 
   - title: "Projects"
-    url: "/#-projects"
-    
-  - title: "Academic visittings"
-    url: "/#-academic-visits"
-    
+    url: "/#projects"
+
+  - title: "Academic Visittings"
+    url: "/#academic-visits"
