@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "Recent News"
     url: "/#-news"
 
   - title: "Publications"
@@ -11,9 +11,6 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Academic Presentation"
     url: "/#-academic-presentation"
