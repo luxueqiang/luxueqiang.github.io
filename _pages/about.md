@@ -52,7 +52,7 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 <div class='paper-box-text' markdown="1">
 
 
-[Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) **[Engineering Geology, IF5= 7.9]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊📊
+[Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) **[Engineering Geology, IF5= 7.9]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊
 
 **XUEQIANG LU**, Gordon G.D. ZHOU*, Kahlil F. E. CUI, Hui TANG, and Yunxu XIE
 
