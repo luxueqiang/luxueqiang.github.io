@@ -30,7 +30,7 @@ My research aims to improve the scientific understanding of natural dam failures
 # 🔥 Recent News
 
 - ***Nov. 11, 2022:*** 🧨🧨 Our Research on "Landslide Dam Breaches" Featured as **AGU Weekly Highlight**. 🔗 <a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>[original website]</a>
--  ***Jul.11, 2022:*** 🧨🧨 ANSO (The Alliance of National and International Science Organizations) Highlights Our Research on "Wave Overtopping" Published in *Engineering Geology*. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
+-  ***Jul.11, 2022:*** 🧨🧨 ANSO (The Alliance of National and International Science Organizations) Highlights Our Research on "Wave Overtopping" Published in Engineering Geology. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
 
 
 <span class='anchor' id='research-highlights'></span>
@@ -39,7 +39,9 @@ My research aims to improve the scientific understanding of natural dam failures
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) **[JGR: Earth Surface, IF5= 4.5]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong> 📊
+[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664)
+
+  **[JGR: Earth Surface, IF5= 4.5]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong> 📊
 
 Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
@@ -54,7 +56,8 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 <div class='paper-box-text' markdown="1">
 
 
-[Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) **[Engineering Geology, IF5= 7.9]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊
+[Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub)
+  **[Engineering Geology, IF5= 7.9]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊
 
 **XUEQIANG LU**, Gordon G.D. ZHOU*, Kahlil F. E. CUI, Hui TANG, and Yunxu XIE
 
@@ -68,32 +71,40 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
 # 📑 Other Publications
 
-- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">JGR: Earth Surface. 2025</span>
-Kahlil F. E. Cui, Gordon G.D. ZHOU*., ..., **XUEQIANG LU** and Tao Zhao. (2025). Modeling the Dense Granular Flow Rheology of Particles With Different Surface Friction: Implications for Geophysical Mass Flows. Journal of Geophysical Research: Earth Surface, 130, e2024JF008048. **[IF5= 4.5]** [https://doi.org/10.1029/2024JF008048](https://doi.org/10.1029/2024JF008048) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:roLk4NBRz8UC'></span></strong> 📊
+- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">J. Geophys. Res-earth. 2025</span>
+Kahlil F. E. Cui, Gordon G.D. ZHOU*., ..., **XUEQIANG LU** and Tao Zhao. (2025). Modeling the Dense Granular Flow Rheology of Particles With Different Surface Friction: Implications for Geophysical Mass Flows. Journal of Geophysical Research: Earth Surface, 130, e2024JF008048. **[IF5= 4.5]**
+  [https://doi.org/10.1029/2024JF008048](https://doi.org/10.1029/2024JF008048) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:roLk4NBRz8UC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2025</span>
-Hongwei Luo, Gordon G.D. ZHOU*., **XUEQIANG LU**., ..., and Alessandro Pasuto. (2025). Experimental investigation on the formation and failure of landslide dams considering the landslide mobility and river flow. Engineering Geology, 346, 107873. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2024.107873](https://doi.org/10.1016/j.enggeo.2024.107873) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:LkGwnXOMwfcC'></span></strong> 📊
+Hongwei Luo, Gordon G.D. ZHOU*., **XUEQIANG LU**., ..., and Alessandro Pasuto. (2025). Experimental investigation on the formation and failure of landslide dams considering the landslide mobility and river flow. Engineering Geology, 346, 107873. **[IF5= 7.9]**
+  [https://doi.org/10.1016/j.enggeo.2024.107873](https://doi.org/10.1016/j.enggeo.2024.107873) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:LkGwnXOMwfcC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2022</span>
-Gordon G.D. ZHOU., Shuai Li*., **XUEQIANG LU** and Hui Tang. (2022). Large-scale landslide dam breach experiments: Overtopping and “overtopping and seepage” failures. Engineering Geology, 304, 106680. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2022.106680](https://doi.org/10.1016/j.enggeo.2022.106680) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Tyk-4Ss8FVUC'></span></strong> 📊
+Gordon G.D. ZHOU., Shuai Li*., **XUEQIANG LU** and Hui Tang. (2022). Large-scale landslide dam breach experiments: Overtopping and “overtopping and seepage” failures. Engineering Geology, 304, 106680. **[IF5= 7.9]**
+  [https://doi.org/10.1016/j.enggeo.2022.106680](https://doi.org/10.1016/j.enggeo.2022.106680) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Tyk-4Ss8FVUC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2022</span>
-Yunxu Xie., Gordon G.D. ZHOU*., Kahlil F.E. Cui and **XUEQIANG LU** (2022). Numerical investigation of debris flows using a two-phase continuum model incorporating a visco-inertial rheology. Engineering Geology, 308, 106797. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2022.106797](https://doi.org/10.1016/j.enggeo.2022.106797) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Y0pCki6q_DkC'></span></strong> 📊
+Yunxu Xie., Gordon G.D. ZHOU*., Kahlil F.E. Cui and **XUEQIANG LU** (2022). Numerical investigation of debris flows using a two-phase continuum model incorporating a visco-inertial rheology. Engineering Geology, 308, 106797. **[IF5= 7.9]**
+  [https://doi.org/10.1016/j.enggeo.2022.106797](https://doi.org/10.1016/j.enggeo.2022.106797) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:Y0pCki6q_DkC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2021</span>
-Dongri Song., Xiaoqing Chen*., Gordon G.D. ZHOU., **XUEQIANG LU**., ..., and Qian Chen. (2021). Impact dynamics of debris flow against rigid obstacle in laboratory experiments. Engineering Geology, 291, 106211. **[IF5= 7.9]** [https://doi.org/10.1016/j.enggeo.2021.106211](https://doi.org/10.1016/j.enggeo.2021.106211) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:YsMSGLbcyi4C'></span></strong> 📊
+Dongri Song., Xiaoqing Chen*., Gordon G.D. ZHOU., **XUEQIANG LU**., ..., and Qian Chen. (2021). Impact dynamics of debris flow against rigid obstacle in laboratory experiments. Engineering Geology, 291, 106211. **[IF5= 7.9]**
+  [https://doi.org/10.1016/j.enggeo.2021.106211](https://doi.org/10.1016/j.enggeo.2021.106211) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:YsMSGLbcyi4C'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">J. Mt. Sci. 2019</span>
-Mingjun Zhou., Gordon G.D. ZHOU*., Kahlil F.E. Cui., ..., and **XUEQIANG LU**. (2019). Influence of inflow discharge and bed erodibility on outburst flood of landslide dam. Journal of Mountain Science, 16(4), 778–792. **[IF5= 2.7]** [https://doi.org/10.1007/s11629-018-5312-8](https://doi.org/10.1007/s11629-018-5312-8) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:zYLM7Y9cAGgC'></span></strong> 📊
+Mingjun Zhou., Gordon G.D. ZHOU*., Kahlil F.E. Cui., ..., and **XUEQIANG LU**. (2019). Influence of inflow discharge and bed erodibility on outburst flood of landslide dam. Journal of Mountain Science, 16(4), 778–792. **[IF5= 2.7]**
+  [https://doi.org/10.1007/s11629-018-5312-8](https://doi.org/10.1007/s11629-018-5312-8) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:zYLM7Y9cAGgC'></span></strong> 📊
 
 
-# 👨🏻‍🏫 Conferences
-
-- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
-Kahlil F.E. Cui., Gordon G.D. ZHOU*., ..., and **XUEQIANG LU**. (2023). Particle size segregation and diffusion in saturated granular flows: Implications for grain sorting in debris flows. In E3S Web of Conferences (Vol. 415, p. 01003). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:_FxGoFyzp5QC'></span></strong> 📊
+# 👨🏻‍🏫 Conference Papers
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
-Gordon G.D. ZHOU., Kahlil F.E. Cui*., ..., **XUEQIANG LU** and Yunxu Xie. (2023). Keynote lecture. Impact dynamics of debris flow against slit dam: Experimental and numerical investigation. In E3S Web of Conferences (Vol. 415, p. 06022). EDP Sciences. [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong> 📊
+Kahlil F.E. Cui., Gordon G.D. ZHOU*., ..., and **XUEQIANG LU**. (2023). Particle size segregation and diffusion in saturated granular flows: Implications for grain sorting in debris flows. In E3S Web of Conferences (Vol. 415, p. 01003). EDP Sciences.
+  [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:_FxGoFyzp5QC'></span></strong> 📊
+
+- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
+Gordon G.D. ZHOU., Kahlil F.E. Cui*., ..., **XUEQIANG LU** and Yunxu Xie. (2023). Keynote lecture. Impact dynamics of debris flow against slit dam: Experimental and numerical investigation. In E3S Web of Conferences (Vol. 415, p. 06022). EDP Sciences.
+  [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong> 📊
 
 
 <span class='anchor' id='honors-and-awards'></span>
