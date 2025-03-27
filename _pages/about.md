@@ -68,7 +68,7 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
 # 📑 Other Publications
 
-- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">J. Geophys. Res-earth. 2025</span>
+- <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">JGR: ES. 2025</span>
 Kahlil F. E. Cui, Gordon G.D. ZHOU*., ..., **XUEQIANG LU** and Tao Zhao. (2025). Modeling the Dense Granular Flow Rheology of Particles With Different Surface Friction: Implications for Geophysical Mass Flows. Journal of Geophysical Research: Earth Surface, 130, e2024JF008048. <strong>[IF5= 4.5]</strong><br> [https://doi.org/10.1029/2024JF008048](https://doi.org/10.1029/2024JF008048) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:roLk4NBRz8UC'></span></strong>
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2025</span>
@@ -91,11 +91,11 @@ Mingjun Zhou., Gordon G.D. ZHOU*., Kahlil F.E. Cui., ..., and **XUEQIANG LU**. (
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
 Kahlil F.E. Cui., Gordon G.D. ZHOU*., ..., and **XUEQIANG LU**. (2023). Particle size segregation and diffusion in saturated granular flows: Implications for grain sorting in debris flows. In E3S Web of Conferences (Vol. 415, p. 01003). EDP Sciences.
-  [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:_FxGoFyzp5QC'></span></strong> 📊
+  [https://doi.org/10.1051/e3sconf/202341501003](https://doi.org/10.1051/e3sconf/202341501003) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">DFHM8</span>
 Gordon G.D. ZHOU., Kahlil F.E. Cui*., ..., **XUEQIANG LU** and Yunxu Xie. (2023). Keynote lecture. Impact dynamics of debris flow against slit dam: Experimental and numerical investigation. In E3S Web of Conferences (Vol. 415, p. 06022). EDP Sciences.
-  [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong> 📊
+  [https://doi.org/10.1051/e3sconf/202341506022](https://doi.org/10.1051/e3sconf/202341506022) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:ufrVoPGSRksC'></span></strong>
 
 
 <span class='anchor' id='honors-and-awards'></span>
