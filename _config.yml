@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "XUEQIANG LU"
-# description            : "Research Assistant"
-description: "Research Assistant <span> 💼🔍👨‍💼 <span><a href='https://drive.google.com/file/d/1ZmHxfHVHcqvccHRcslw-d5ZIsu7USN6h/view?usp=sharing'>[CV]</a></span></span>"
+description              : "Research Assistant <a href='https://drive.google.com/file/d/1ZmHxfHVHcqvccHRcslw-d5ZIsu7USN6h/view?usp=sharing' target='_blank' style='display: inline; white-space: nowrap;'>[CV]</a>"
 repository               : "luxueqiang/luxueqiang.github.io"
 google_scholar_stats_use_cdn : true
 
