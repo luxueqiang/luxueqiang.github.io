@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Research Interests and Expertise:**
+**Research Interests and Expertise:**  
 I am a PhD researcher specializing in geological hazards, with a particular focus on the mechanisms of breaching in landslide and moraine dams and the resulting outburst floods. My research integrates experimental investigations and numerical modeling to enhance our understanding of dam failure processes and their downstream impacts.
 
 In my experimental work, I have designed and developed a custom instrumented flume capable of real-time monitoring of dynamic (force plate) and seismic (geophones) signals during dam breaching and outburst flood events. This setup allows for a detailed analysis of the physical and mechanical processes governing breach initiation and evolution. On the numerical side, I employ depth-averaged continuum models in combination with computational fluid dynamics (CFD) tools such as OlaFOAM and OpenFOAM to simulate breach dynamics and flood wave propagation. 
@@ -31,7 +31,7 @@ My research aims to improve the scientific understanding of natural dam failures
 # 🔥 Recent News
 
 - ***Nov. 11, 2022:*** 🧨🧨 Our research progress on "landslide dam breaches", published in the 'Journal of Geophysical Research: Earth Surface', has been honored with the Weekly Highlight by the American Geophysical Union (AGU). 🔗 <a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>[original website]</a>
--  ***Jul.11, 2022:*** 🧨🧨 Our research findings on "wave overtopping", initially published in 'Engineering Geology', have garnered the honor of an invitation from 'The Alliance of National and International Science Organizations for the Belt and Road Regions (ANSO)'. They requested a bilingual presentation of these results to be featured on their official website. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
+-  ***Jul.11, 2022:*** 🧨🧨 ANSO (The Alliance of National and International Science Organizations) Highlights Our Research on "Wave Overtopping" Published in *Engineering Geology*. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
 
 
 <span class='anchor' id='research-highlights'></span>
