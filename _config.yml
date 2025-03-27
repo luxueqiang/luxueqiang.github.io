@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "XUEQIANG LU"
-description              : "Ph.D (UCAS)"
+title                    : "XUEQIANG LU (鲁学强)"
+description              : "Research Assistant [[CV]](https://drive.google.com/file/d/1ETNpYJ2uZH3z9kPiiadaM6VNMt8PJK81/view?usp=sharing)" 
 repository               : "luxueqiang/luxueqiang.github.io"
 google_scholar_stats_use_cdn : true
 
