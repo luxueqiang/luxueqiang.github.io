@@ -39,9 +39,7 @@ My research aims to improve the scientific understanding of natural dam failures
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664)
-
-  **[JGR: Earth Surface, IF5= 4.5]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong> 📊
+[Mechanisms of the Non-Uniform Breach Morphology Evolution of Landslide Dams Composed of Unconsolidated Sediments During Overtopping Failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) **[JGR: Earth Surface, IF5= 4.5]** [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong> 📊
 
 Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 
@@ -56,8 +54,7 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 <div class='paper-box-text' markdown="1">
 
 
-[Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub)
-  **[Engineering Geology, IF5= 7.9]** 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊
+[Overtopping Volume of Impulse Waves in Glacier Lakes: Experimental and Numerical Investigation using Rigid Dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) **[Engineering Geology, IF5= 7.9]** [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong> 📊
 
 **XUEQIANG LU**, Gordon G.D. ZHOU*, Kahlil F. E. CUI, Hui TANG, and Yunxu XIE
 
@@ -72,7 +69,7 @@ Gordon G.D. ZHOU, **XUEQIANG LU***, Yunxu XIE, Kahlil F. E. CUI, and Hui TANG
 # 📑 Other Publications
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">J. Geophys. Res-earth. 2025</span>
-Kahlil F. E. Cui, Gordon G.D. ZHOU*., ..., **XUEQIANG LU** and Tao Zhao. (2025). Modeling the Dense Granular Flow Rheology of Particles With Different Surface Friction: Implications for Geophysical Mass Flows. Journal of Geophysical Research: Earth Surface, 130, e2024JF008048. **[IF5= 4.5]**
+Kahlil F. E. Cui, Gordon G.D. ZHOU*., ..., **XUEQIANG LU** and Tao Zhao. (2025). Modeling the Dense Granular Flow Rheology of Particles With Different Surface Friction: Implications for Geophysical Mass Flows. Journal of Geophysical Research: Earth Surface, 130, e2024JF008048. <strong>[IF5= 4.5]</strong><br>
   [https://doi.org/10.1029/2024JF008048](https://doi.org/10.1029/2024JF008048) 👉 [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:roLk4NBRz8UC'></span></strong> 📊
 
 - <span style="background-color: #133599; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 1px; font-size: 12px;">Eng. Geol. 2025</span>
