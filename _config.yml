@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "XUEQIANG LU (鲁学强)"
+title                    : "XUEQIANG LU"
 # description              : "Research Assistant"
 description              : "Postdoc <span><a href='https://drive.google.com/file/d/1ZmHxfHVHcqvccHRcslw-d5ZIsu7USN6h/view?usp=sharing'>[CV]</a><span>"
 repository               : "luxueqiang/luxueqiang.github.io"
