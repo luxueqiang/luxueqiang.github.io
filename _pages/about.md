@@ -29,8 +29,8 @@ My research aims to improve the scientific understanding of natural dam failures
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
 
-- ***Nov. 11, 2022:*** 🧨🧨 Our Research on "Landslide Dam Breaches" Featured as **AGU Weekly Highlight**. 🔗 <a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>[original website]</a>
--  ***Jul.11, 2022:*** 🧨🧨 ANSO (The Alliance of National and International Science Organizations) Highlights Our Research on "Wave Overtopping" Published in Engineering Geology. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[original website]</a>
+- 🧨🧨 ***Nov. 11, 2022:*** Our Research on "Landslide Dam Breaches" Featured as **AGU Weekly Highlight**. 🔗 <a href='https://mp.weixin.qq.com/s/luNUv63HjJNh0ZP3_bmnjA'>[Original Website]</a>
+- 🧨🧨 ***Jul.11, 2022:*** The ANSO (Alliance of National and International Science Organizations) Highlights Our Research on "Wave Overtopping" Published in Engineering Geology. 🔗 <a href='https://mp.weixin.qq.com/s/v0rB57e-skuW0uVD4rnczQ'>[Original Website]</a>
 
 
 <span class='anchor' id='research-highlights'></span>
@@ -39,9 +39,7 @@ My research aims to improve the scientific understanding of natural dam failures
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">JGR: Earth Surface, 2022</div><img src='images/JGR_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanisms of the non-uniform breach morphology evolution of landslide dams composed of unconsolidated sediments during overtopping failure](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664) <br> [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong>
-
-Gordon G.D. Zhou, **XUEQIANG LU***, Yunxu Xie, Kahlil F. E. Cui, and Hui Tang
+Gordon G.D. Zhou, **XUEQIANG LU***, Yunxu Xie, Kahlil F. E. Cui, and Hui Tang. (2022). Mechanisms of the non‐uniform breach morphology evolution of landslide dams composed of unconsolidated sediments during overtopping failure. Journal of Geophysical Research: Earth Surface, 127(10), e2022JF006664. <br> [[Original Website]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006664)  [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:IjCSPb-OGe4C'></span></strong>
 
 **Highlights**
 - Erosion along dam surfaces varies non-uniformly in both vertical and lateral directions;
@@ -53,10 +51,7 @@ Gordon G.D. Zhou, **XUEQIANG LU***, Yunxu Xie, Kahlil F. E. Cui, and Hui Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="border-radius: 3px; padding: 2px 6px;">Engineering Geology, 2022</div><img src='images/EG_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-[Overtopping volume of impulse waves in glacier lakes: Experimental and numerical investigation using rigid dams](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub) <br> [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong>
-
-**XUEQIANG LU**, Gordon G.D. Zhou*, Kahlil F. E. Cui, Hui Tang, and Yunxu Xie
+**XUEQIANG LU**, Gordon G.D. Zhou*, Kahlil F. E. Cui, Hui Tang, and Yunxu Xie. (2022). Overtopping volume of impulse waves in glacier lakes: Experimental and numerical investigation using rigid dams. Engineering Geology, 306, 106763. <br> [[Original Website]](https://www.sciencedirect.com/science/article/pii/S0013795222002484?via%3Dihub)  [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bg80K9YAAAAJ&citation_for_view=Bg80K9YAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='Bg80K9YAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 **Highlights** 
 - A quantitative relationship between the runup and overtopping volume of solitary waves is newly established;
