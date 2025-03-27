@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Research Interests and Expertise**
+**Research Interests and Expertise:**
 I am a PhD researcher specializing in geological hazards, with a particular focus on the mechanisms of breaching in landslide and moraine dams and the resulting outburst floods. My research integrates experimental investigations and numerical modeling to enhance our understanding of dam failure processes and their downstream impacts.
 
 In my experimental work, I have designed and developed a custom instrumented flume capable of real-time monitoring of dynamic (force plate) and seismic (geophones) signals during dam breaching and outburst flood events. This setup allows for a detailed analysis of the physical and mechanical processes governing breach initiation and evolution. On the numerical side, I employ depth-averaged continuum models in combination with computational fluid dynamics (CFD) tools such as OlaFOAM and OpenFOAM to simulate breach dynamics and flood wave propagation. 
 
-My research aims to improve the scientific understanding of natural dam failures and contribute to the development of more effective hazard assessment and risk mitigation strategies.
-
-Till now, my publications have garnered google scholar <a style="display: none;" href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'><strong><span id='total_cit'></span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research aims to improve the scientific understanding of natural dam failures and contribute to the development of more effective hazard assessment and risk mitigation strategies. To date, my publications (10 in total) have received <a style="display: none;" href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'><strong><span id='total_cit'></span></strong> google scholar citations </a> <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=Bg80K9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 🌈🌈🌈 If you are interested in further discussions on academic topics related to my research, please don't hesitate to reach out via email at *luxueqiang2018@gmail.com* or *luxueqiang18@mails.ucas.ac.cn*.
 
