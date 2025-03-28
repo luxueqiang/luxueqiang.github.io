@@ -118,5 +118,4 @@ Gordon G.D. Zhou., Kahlil F.E. Cui*., ..., **XUEQIANG LU** and Yunxu Xie. (2023)
 # 🛫 Academic Visittings
 
 - ***2023.06 - 2023.07***, Helmholtz-Centre Potsdam, German Research Centre for Geosciences (GFZ), Germany 🇩🇪, invited visitting. [[photo]](https://drive.google.com/file/d/1pOPXEZa1i6nu5qap0QV_43L4eJJfWhvj/view?usp=sharing)
-- ***2023.06 - 2023.07***, Polytechnic University of Turin, Italy 🇮🇹, academic conference (DFHM8). [[photo]](https://drive.google.com/file/d/1we9lDuNWtUecMEtU6KHN3PnC0aU3_yyl/view?usp=sharing)
 - ***2023.06 - 2023.07***, Illgraben, Switzerland 🇨🇭, field trip. [[photo]](https://drive.google.com/file/d/1ETNpYJ2uZH3z9kPiiadaM6VNMt8PJK81/view?usp=sharing)
