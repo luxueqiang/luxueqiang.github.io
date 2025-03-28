@@ -94,13 +94,13 @@ Gordon G.D. Zhou., Kahlil F.E. Cui*., ..., **XUEQIANG LU** and Yunxu Xie. (2023)
 <span class='anchor' id='honors-and-awards'></span>
 # 🏆 Honors and Awards
 
-- ***2017***, National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering, from the Chinese Society of Rock Mechanics and Engineering. This prestigious award recognized only 39 exceptional theses nationwide;
+- ***2017.09***, National Outstanding Graduation Design (Thesis) Award in Rock Mechanics and Engineering, Awarded by the Chinese Society of Rock Mechanics and Engineering, this prestigious recognition is granted to only 39 exceptional theses nationwide, honoring outstanding contributions to the field of rock mechanics and engineering;
 
 
 <span class='anchor' id='academic-presentation'></span>
 # 👨🏻‍🏫 Academic Presentation
 
-- ***In Sep. 2023***, The XIV Congress of the International Association for Engineering Geology and the Environment, Title: Non-Uniform Breach Evolution of Landslide Dams During Overtopping Failure, Paper No:B235 [[PPT]](https://drive.google.com/file/d/1kru0Sim46l9-f9NR4QjMCkMIOTU3yXg1/view?usp=drive_link)
+- ***2023.09***, The XIV Congress of the International Association for Engineering Geology and the Environment, Oral Presentation: Non-Uniform Breach Evolution of Landslide Dams During Overtopping Failure, Paper No:B235 [[PPT]](https://drive.google.com/file/d/1kru0Sim46l9-f9NR4QjMCkMIOTU3yXg1/view?usp=drive_link)
 
 
 <span class='anchor' id='projects'></span>
