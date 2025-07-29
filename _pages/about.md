@@ -108,9 +108,9 @@ Gordon G.D. Zhou., Kahlil F.E. Cui*., ..., **XUEQIANG LU** and Yunxu Xie. (2023)
 
 --- *Current Projects* ---
 - National Key Laboratory of Mountain River Conservation and Governance (Sichuan University) Application for Open Collaboration Funding, No. SKHL2308, Numerical simulation of the disaster chain of “landslide - river blockage – dammed lake – outburst flooding” whole process, 2024.01 – 2025.12, CNY 40,000, Ongoing, Participant;
+- National Natural Science Foundation of China (NSFC) Project of XXX
 
 --- *Previous Projects* ---
-
 - Sino-German Science Center of NSFC, Sino-German Cooperative Exchange Project, M-0145, Mountain Hazards under Climate Change, 2021-01 to 2024-12, CNY 741,072, finished, Participant;
 
 
